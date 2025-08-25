@@ -1,3 +1,3 @@
 # Demo
 Demo Repository
-Author- Vansh Baranwal
+Author - Vansh Baranwal
